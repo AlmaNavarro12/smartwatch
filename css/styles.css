@@ -77,14 +77,14 @@ a:hover {
 /**************************************/
 /* Estilos de contacto */
 
-#formulario {
+#contacto {
     margin-top: 3.125em;
+    text-align: center;
+}
+ 
+.contacto {
+    padding-top: 3em;
+    padding-bottom: 3em;
     color: #3b3b3b;
     text-align: center;
 }
-
-.espacio-input {
-    margin-top: 10px;
-    margin: 10px;
-}
-
