@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Rubik', sans-serif;
-    font-size: 1em;
+    font-size: 100%;
     color: #707070;
     text-align: center;
 }
@@ -92,3 +92,22 @@ a:hover {
 
 /**************************************/
 /* Estilos de video */
+
+.video-nuevo {
+    background-color: #707070;
+    color: white;
+    border: teal;
+    border-radius: 1em;
+    width: 8em;
+    height: 2em;
+}
+
+.video-nuevo:hover {
+    background-color: slategray;
+    color: white;
+    border: teal;
+    border-radius: 1em;
+    width: 5em;
+    height: 2em;
+}
+
